@@ -1,5 +1,5 @@
 /**
- * Created by 89243 on 2017/6/27 0027.
+ * Created by dou lc on 2017/6/27 0027.
  */
 public class Solution {
     public int removeDuplicates(int[] nums) {
