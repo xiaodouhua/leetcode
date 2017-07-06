@@ -10,7 +10,7 @@ public class LongestValidParentheses {
     }
 
     /**
-     *
+     * 利用栈，时间复杂度O(n)，空间复杂度O(n)
      * @param s：
      * @return count:
      */
