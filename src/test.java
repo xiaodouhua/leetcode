@@ -1,4 +1,6 @@
-
+/**
+ *
+ */
 
 public class test {
 
@@ -10,7 +12,6 @@ public class test {
         int [] num2={3,1,2,3,3,4};
         System.out.println(solution.removeElement(num2,3));
         }
-
 
 
 }
