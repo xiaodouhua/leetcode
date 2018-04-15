@@ -9,6 +9,7 @@ public class xxxx {
 
         int [] num2={3,1,2,3,3,4};
         System.out.println(solution2.removeElement(num2,3));
+        System.out.println(solution2.removeElement(num2,3));
     }
 
 }
